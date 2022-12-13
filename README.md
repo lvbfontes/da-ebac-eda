@@ -1,4 +1,4 @@
-# Prática de EDA em SQL
+# Prática de EDA (Exploratory Data Analysis) em SQL
 Repositório utilizado no curso Analista de Dados da EBAC para prática de EDA (Exploratory Data Analysis)
 
 Base utilizada: Brazilian Amazon Rainforest Degradation 1999-2019
